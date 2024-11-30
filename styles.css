@@ -1,0 +1,13 @@
+/* styles.css */
+
+
+main {
+
+display: flex;
+justify-content: center;
+}
+
+.container {
+    padding: 50px;
+}
+
